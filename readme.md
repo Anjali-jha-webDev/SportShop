@@ -24,8 +24,8 @@ Images: Unsplash CDN (Optimized)<br>
 Deployment: GitHub + Vercel/Netlify Ready<br>
 
 
-src/
-├── pages/
+src/<br>
+├── pages/<br>
 │   ├── Home.jsx (Hero + Featured Products)<br>
 │   ├── Products.jsx (Product Catalog)<br>
 │   ├── Cart.jsx (Shopping Cart 🛒)<br>
@@ -49,16 +49,16 @@ src/
 
 💳 Payment Process Flow<br>
 1️⃣ CART → CHECKOUT (Auto-save cart state)<br>
-   ↓
+   ↓<br>
 2️⃣ 📝 Fill Form: Name, Email, Phone, Address (5 fields)<br>
-   ↓  
+   ↓  <br>
 3️⃣ 💰 Select Payment: <br>
    • Credit/Debit Card 💳<br>
    • UPI (Google Pay/PhonePe) 📱 <br>
    • Cash on Delivery 🛵<br>
-   ↓
+   ↓<br>
 4️⃣ ✅ Terms Checkbox → PLACE ORDER (Gold button glow)<br>
-   ↓
+   ↓<br>
 5️⃣ 🎉 SUCCESS: Order confirmed + Back to Shop<br>
 
 
