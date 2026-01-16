@@ -4,7 +4,7 @@
 
 ## 📱 Live Features Implemented
 
-✅ Home Page - Hero + 4 Featured Sports Products
+✅ Home Page - Hero + 4 Featured Sports Products<br>
 ✅ Product Grid with Hover Animations
 ✅ Shopping Cart with Quantity Controls
 ✅ Checkout Form (Name, Email, Phone, Address, Payment)
