@@ -5,61 +5,61 @@
 ## 📱 Live Features Implemented
 
 ✅ Home Page - Hero + 4 Featured Sports Products<br>
-✅ Product Grid with Hover Animations
-✅ Shopping Cart with Quantity Controls
-✅ Checkout Form (Name, Email, Phone, Address, Payment)
-✅ Gold Championship Theme ✨
-✅ Fixed Form Text Visibility (Black text on white inputs)
-✅ Mobile Responsive Design
-✅ Add to Cart Functionality
-✅ Real-time Order Summary
-✅ Smooth CSS Animations & Transitions
+✅ Product Grid with Hover Animations<br>
+✅ Shopping Cart with Quantity Controls<br>
+✅ Checkout Form (Name, Email, Phone, Address, Payment)<br>
+✅ Gold Championship Theme ✨<br>
+✅ Fixed Form Text Visibility (Black text on white inputs)<br>
+✅ Mobile Responsive Design<br>
+✅ Add to Cart Functionality<br>
+✅ Real-time Order Summary<br>
+✅ Smooth CSS Animations & Transitions<br>
 
 
 ## 🛠️ Tech Stack
-Frontend: React 18 + Tailwind CSS + Vite
-State: React Context API (CartContext)
-Styling: Tailwind CSS + Custom Championship CSS
-Images: Unsplash CDN (Optimized)
-Deployment: GitHub + Vercel/Netlify Ready
+Frontend: React 18 + Tailwind CSS + Vite<br>
+State: React Context API (CartContext)<br>
+Styling: Tailwind CSS + Custom Championship CSS<br>
+Images: Unsplash CDN (Optimized)<br>
+Deployment: GitHub + Vercel/Netlify Ready<br>
 
 
 src/
 ├── pages/
-│   ├── Home.jsx (Hero + Featured Products)
-│   ├── Products.jsx (Product Catalog)
-│   ├── Cart.jsx (Shopping Cart 🛒)
-│   └── Checkout.jsx (Billing + Payment 💳)
-├── components/product/ProductCard.jsx
-├── context/CartContext.jsx
-└── index.css (Championship Gold Theme ✨)
+│   ├── Home.jsx (Hero + Featured Products)<br>
+│   ├── Products.jsx (Product Catalog)<br>
+│   ├── Cart.jsx (Shopping Cart 🛒)<br>
+│   └── Checkout.jsx (Billing + Payment 💳)<br>
+├── components/product/ProductCard.jsx<br>
+├── context/CartContext.jsx<br>
+└── index.css (Championship Gold Theme ✨)<br>
 
-🏈 Home Page
-✅ 4 Sports Products: Football, Basketball, Cricket Bat, Tennis Racket
-✅ Gold gradient hero with shine effect
-✅ Product cards with hover lift animations
-✅ Add to Cart with visual feedback
+🏈 Home Page<br>
+✅ 4 Sports Products: Football, Basketball, Cricket Bat, Tennis Racket<br>
+✅ Gold gradient hero with shine effect<br>
+✅ Product cards with hover lift animations<br>
+✅ Add to Cart with visual feedback<br>
 
-🛒 Shopping Cart
-✅ Gold medal glassmorphism design
-✅ Quantity +/- with pop animation
-✅ Remove items (hover × button)
-✅ Real-time total calculation
-✅ Mobile responsive
+🛒 Shopping Cart<br>
+✅ Gold medal glassmorphism design<br>
+✅ Quantity +/- with pop animation<br>
+✅ Remove items (hover × button)<br>
+✅ Real-time total calculation<br>
+✅ Mobile responsive<br>
 
-💳 Payment Process Flow
-1️⃣ CART → CHECKOUT (Auto-save cart state)
+💳 Payment Process Flow<br>
+1️⃣ CART → CHECKOUT (Auto-save cart state)<br>
    ↓
-2️⃣ 📝 Fill Form: Name, Email, Phone, Address (5 fields)
+2️⃣ 📝 Fill Form: Name, Email, Phone, Address (5 fields)<br>
    ↓  
-3️⃣ 💰 Select Payment: 
-   • Credit/Debit Card 💳
-   • UPI (Google Pay/PhonePe) 📱 
-   • Cash on Delivery 🛵
+3️⃣ 💰 Select Payment: <br>
+   • Credit/Debit Card 💳<br>
+   • UPI (Google Pay/PhonePe) 📱 <br>
+   • Cash on Delivery 🛵<br>
    ↓
-4️⃣ ✅ Terms Checkbox → PLACE ORDER (Gold button glow)
+4️⃣ ✅ Terms Checkbox → PLACE ORDER (Gold button glow)<br>
    ↓
-5️⃣ 🎉 SUCCESS: Order confirmed + Back to Shop
+5️⃣ 🎉 SUCCESS: Order confirmed + Back to Shop<br>
 
 
 
